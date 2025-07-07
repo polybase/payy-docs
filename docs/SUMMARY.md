@@ -22,12 +22,12 @@
 ## Payy Network
 
 * [Whitepaper](payy-network/whitepaper.md)
-* [Architecture](whitepaper/03_architecture.md)
-* [Rollup](whitepaper/04_rollup.md)
-* [UTXO](whitepaper/05_utxo.md)
-* [Compliance](whitepaper/06_compliance.md)
-* [ZK Proofs](whitepaper/07_zk_proofs.md)
-* [Transmitting Notes](whitepaper/08_transmitting_notes.md)
+* [Architecture](payy-network/03_architecture.md)
+* [Rollup](payy-network/04_rollup.md)
+* [UTXO](payy-network/05_utxo.md)
+* [Compliance](payy-network/06_compliance.md)
+* [ZK Proofs](payy-network/07_zk_proofs.md)
+* [Transmitting Notes](payy-network/08_transmitting_notes.md)
 
 ## Support
 
