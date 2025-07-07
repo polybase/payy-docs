@@ -49,4 +49,4 @@ This documentation is licensed under [MIT License](./LICENSE). See the license f
 
 ---
 
-**Maintained by the Payy Team** | **Last Updated**: {{date}}
+**Maintained by the Payy Team** | **Last Updated**: 07/07/2025
