@@ -1,15 +1,15 @@
 # $PAYY token
 
-Payy is a UX-focused, zero-fee crypto banking platform. The $PAYY token gives users tiered benefits — better yield, safety, automation, credit, and execution.
+Payy is a next-generation onchain bank. The $PAYY token gives users tiered benefits — better yield, safety, automation, credit, and execution.
 
 * Easy for normal users (just send, save, spend — no fees).
-* Powerful for advanced users (tiered yield, leverage, privacy, and optimization).
+* Powerful for advanced users (tiered yield, leverage, more privacy, and optimization).
 * Profitable for big players (serious extraction mechanics and capital efficiency).
 * Aligned for everyone: the more you participate or hold $PAYY, the better the system works for you.
 
 ## Total supply
 
-1 billion tokens&#x20;
+1 billion tokens
 
 ## Distribution
 
