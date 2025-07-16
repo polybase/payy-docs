@@ -132,9 +132,19 @@ If you do not back up your wallet and you lose your phone, your money will be lo
 
 <details>
 
-<summary> I sent a payment by mistake, can I cancel it?</summary>
+<summary>I sent a payment by mistake, can I cancel it?</summary>
 
 Yes, you can cancel a pending payment link in the _Activity_ tab in the app by tapping on the payment. If the link has been redeemed, there is no way to cancel or revert the transaction.
+
+</details>
+
+<details>
+
+<summary>Is it safe to share my Payy Address?</summary>
+
+Yes, this is a public address and you can share it. However, there is generally no need to share it as you can use a Request Link to let other send funds to you.
+
+Your Payy Address cannot be used to look up your balance or payments as that information never leaves your device. Read more about thow [Payy Network](broken-reference) keeps payments [private](../core-concepts/privacy.md).
 
 </details>
 
