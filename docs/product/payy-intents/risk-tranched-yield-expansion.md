@@ -8,7 +8,7 @@ A structured yield system that lets users choose how much risk they want to take
 | Mezzanine | 100%       | standard risk        |
 | Junior    | 130-180%   | high risk            |
 
-## $PAYY yield boosts
+## $PAYY token yield boosts
 
 {% include "../../.gitbook/includes/yield-expansion-boosts.md" %}
 

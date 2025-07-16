@@ -18,6 +18,8 @@
   * [Risk-tranched Yield Expansion](product/payy-intents/risk-tranched-yield-expansion.md)
   * [Liquidation Immunity System](product/payy-intents/liquidation-immunity-system.md)
   * [Extraction Efficiency Network](product/payy-intents/extraction-efficiency-network.md)
+  * [USTB Looping Safety Mechanisms](product/payy-intents/ustb-looping-safety-mechanisms.md)
+  * [Loop Optimization Engine](product/payy-intents/loop-optimization-engine.md)
 
 ## Payy Network
 
