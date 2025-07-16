@@ -33,6 +33,7 @@ Payy Card is a self-custodial Visa card that allows you to spend USDC from your 
 
 * Identity verification is required to receive a card
 * Your identity and verification data cannot be linked to your Payy Network blockchain transactions
+* Information we have to collect varies between countries but generally its your name, birth date, address, government ID number and ID photo.
 
 ## Usage notes
 
@@ -63,4 +64,3 @@ You can add Payy Card to Apple Pay or Google Pay by going to the Apple Wallet or
 ## Support
 
 For any issues (billing info updates, card not working, etc.) contact support directly in the app.
-
