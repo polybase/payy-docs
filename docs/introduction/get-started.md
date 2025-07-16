@@ -6,6 +6,8 @@ Payy is a next-generation onchain bank that’s:
 * Simple but powerful: You can use it as a global payments app — or dive into investments (coming soon).
 * Safe and secure: You can't be debanked, transactions are confidential and keys auto-backup.
 
-To get started, download the Payy Wallet for iOS or Android.
+To get started, download Payy Wallet for iOS or Android.
 
-[https://payy.link/download](https://payy.link/download)
+<div align="left"><figure><img src="../.gitbook/assets/app-store-neutral 1 (1).svg" alt=""><figcaption></figcaption></figure></div>
+
+<div align="left"><figure><img src="../.gitbook/assets/google-play-neutral 1.svg" alt=""><figcaption></figcaption></figure></div>
