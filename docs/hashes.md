@@ -10,6 +10,6 @@ A hash is a series of random numbers and letters that represents some data. Hash
 * No matter how large the original data is, the hash will always be the same length.
 * Hashes allow _one-way encryption_, which means it's impossible to reconstruct the original data from the hash representing it.
 
-<figure><img src="../.gitbook/assets/Frame 2.png" alt=""><figcaption><p>An image and its hash</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 2.png" alt=""><figcaption><p>An image and its hash</p></figcaption></figure>
 
 Hashes are crucial in things like securing passwords and maintaining the integrity of blockchain transactions. For Payy Network, hashes are the representation of transactions that have been validated on our network.

@@ -1,17 +1,6 @@
 ---
 description: Make money easy.
 hidden: true
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Solution

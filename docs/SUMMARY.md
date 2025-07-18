@@ -43,11 +43,14 @@
 ## Core Concepts
 
 * [Privacy](core-concepts/privacy.md)
-* [Blockchains](core-concepts/blockchains.md)
-* [Zero Knowledge Proofs](core-concepts/zero-knowledge-proofs.md)
-* [Hashes](core-concepts/hashes.md)
 * [Stablecoins](core-concepts/stablecoins/README.md)
   * [USDC](core-concepts/stablecoins/usdc.md)
+* [Zero Knowledge Proofs](core-concepts/zero-knowledge-proofs.md)
+
+***
+
+* [Hashes](hashes.md)
+* [Blockchains](blockchains.md)
 
 ## Tokenomics
 

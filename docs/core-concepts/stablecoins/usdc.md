@@ -10,4 +10,6 @@ USDC maintains a 1:1 ratio with the USD. This is achieved by holding reserves in
 
 USDC is issued by Circle. Users can redeem USDC for USD and vice versa.
 
+You balance in Payy is USDC.
+
 Learn more at [https://www.circle.com/en/usdc](https://www.circle.com/en/usdc).
