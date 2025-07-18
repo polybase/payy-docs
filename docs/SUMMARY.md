@@ -37,20 +37,24 @@
 * [Contract addresses](support/contract-addresses.md)
 * [Payy Network FAQ](support/payy-network-faq.md)
 * [Payy Wallet FAQ](support/payy-wallet-faq.md)
+* [Audits](support/audits.md)
 * [Run a node](support/run-a-node.md)
 * [Contact](support/contact.md)
 
 ## Core Concepts
 
 * [Privacy](core-concepts/privacy.md)
+* [Deposit & withdraw](core-concepts/deposit-and-withdraw.md)
+* [Bridging](core-concepts/bridging.md)
+* [Addresses](core-concepts/addresses.md)
 * [Stablecoins](core-concepts/stablecoins/README.md)
   * [USDC](core-concepts/stablecoins/usdc.md)
 * [Zero Knowledge Proofs](core-concepts/zero-knowledge-proofs.md)
 
 ***
 
-* [Hashes](hashes.md)
-* [Blockchains](blockchains.md)
+* [Hashes](core-concepts/hashes.md)
+* [Blockchains](core-concepts/blockchains.md)
 
 ## Tokenomics
 
