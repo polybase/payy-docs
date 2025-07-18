@@ -12,4 +12,4 @@ The way I do it is this: I take a large piece of opaque paper, cut a small circl
 
 This is a rough example of a **zero knowledge proof**. In the digital world, zero-knowledge proofs allow for the verification of a statement without revealing any additional information. This concept is particularly powerful in the field of cryptography and has applications in secure voting systems, authentication systems, and blockchain technologies where privacy is paramount.
 
-For Payy Network specifically, we leverage zero knowledge proofs to maintain full privacy for each transaction. We can verify that the transaction is valid (i.e. you aren't spending more than you have) and that neither transactor has interacted with bad actors on the network, thus making our system fully compliant with regulations.
+For [Broken link](broken-reference "mention") specifically, we leverage zero knowledge proofs to maintain full privacy for each transaction. We can verify that the transaction is valid (i.e. you aren't spending more than you have) and that neither transactor has interacted with bad actors on the network.

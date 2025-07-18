@@ -12,4 +12,4 @@ A hash is a series of random numbers and letters that represents some data. Hash
 
 <figure><img src="../.gitbook/assets/Frame 2.png" alt=""><figcaption><p>An image and its hash</p></figcaption></figure>
 
-Hashes are crucial in things like securing passwords and maintaining the integrity of blockchain transactions. For Payy Network, hashes are the representation of transactions that have been validated on our network.
+Hashes are crucial in things like securing passwords and maintaining the integrity of blockchain transactions. For [Broken link](broken-reference "mention"), hashes are the representation of transactions that have been validated on our network.
