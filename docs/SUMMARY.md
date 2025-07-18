@@ -11,6 +11,7 @@
 
 * [Payy Wallet](product/payy-wallet.md)
 * [Payy Network](product/payy-network.md)
+* [Payy Points](product/payy-points.md)
 * [Payy Card](product/payy-card/README.md)
   * [Light up card](product/payy-card/light-up-card.md)
 * [Payy Investments](product/payy-intents/README.md)
