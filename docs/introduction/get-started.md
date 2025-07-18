@@ -8,6 +8,6 @@ Payy is a next-generation onchain bank that’s:
 
 To get started, download Payy Wallet for iOS or Android.
 
-<div align="left"><figure><img src="../.gitbook/assets/app-store-neutral 1 (1).svg" alt=""><figcaption></figcaption></figure></div>
+<a href="https://apple.co/4dMbpO3" class="button primary">Download on App Store</a>
 
-<div align="left"><figure><img src="../.gitbook/assets/google-play-neutral 1.svg" alt=""><figcaption></figcaption></figure></div>
+<a href="https://play.google.com/store/apps/details?id=com.polybaselabs.wallet" class="button primary">Download on Google Play Store</a>
