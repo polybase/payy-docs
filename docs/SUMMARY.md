@@ -31,16 +31,6 @@
 * [ZK Proofs](payy-network/07_zk_proofs.md)
 * [Transmitting Notes](payy-network/08_transmitting_notes.md)
 
-## Support
-
-* [Open source](support/open-source.md)
-* [Contract addresses](support/contract-addresses.md)
-* [Payy Network FAQ](support/payy-network-faq.md)
-* [Payy Wallet FAQ](support/payy-wallet-faq.md)
-* [Audits](support/audits.md)
-* [Run a node](support/run-a-node.md)
-* [Contact](support/contact.md)
-
 ## Core Concepts
 
 * [Privacy](core-concepts/privacy.md)
@@ -50,6 +40,16 @@
 * [Stablecoins](core-concepts/stablecoins/README.md)
   * [USDC](core-concepts/stablecoins/usdc.md)
 * [Zero Knowledge Proofs](core-concepts/zero-knowledge-proofs.md)
+
+## Support
+
+* [Open source](support/open-source.md)
+* [Contract addresses](support/contract-addresses.md)
+* [Payy Network FAQ](support/payy-network-faq.md)
+* [Payy Wallet FAQ](support/payy-wallet-faq.md)
+* [Audits](support/audits.md)
+* [Run a node](support/run-a-node.md)
+* [Contact](support/contact.md)
 
 ***
 
