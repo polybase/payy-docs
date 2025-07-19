@@ -8,5 +8,5 @@ Identity verification is an optional step users can take to enable regulated fin
 
 You verify your identity by submitting information like your legal name, birthdate, address and ID photo. This data is stored and processed according to our [Privacy Policy](https://payy.link/privacy).
 
-It is cryptographically impossible to link your data to your [Broken link](broken-reference "mention") activity because Payy Wallet doesn't expose your balance, transaction amounts or [#payy-address](addresses.md#payy-address "mention") to the network.
+It is cryptographically impossible to link your data to your Payy Network activity because Payy Wallet doesn't expose your balance, transaction amounts or [#payy-address](addresses.md#payy-address "mention") to the network.
 

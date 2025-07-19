@@ -47,7 +47,7 @@ Payy Card is a self-custodial Visa card that allows you to spend USDC from your 
 
 ## How It Works
 
-1. Complete [identity-verification.md](../../core-concepts/identity-verification.md "mention") in the Payy Wallet app
+1. Complete identity verification in the Payy Wallet app
 2. Receive your virtual Payy Card
 3. Deposit funds to your Payy Wallet from banks, crypto exchanges or blockchains
 4. Use your Payy Card online or in-store; transactions are settled privately on Payy Network

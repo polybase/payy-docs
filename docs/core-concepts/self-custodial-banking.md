@@ -12,5 +12,5 @@ Neither Payy nor [Broken link](broken-reference "mention") have a banking licens
 
 At no point does Payy Wallet or Polybase Labs have unilateral custody of your funds.
 
-Before [blockchains.md](blockchains.md "mention"), self-custodial banking was not possible. The implementation of a trustless globally distributed ledger by Bitcoin pioneered the idea that you could have full control over your digital money: no restrictions, no freezes, no bank runs.
+Before blockchains self-custodial banking was not possible. The implementation of a trustless globally distributed ledger by Bitcoin pioneered the idea that you could have full control over your digital money: no restrictions, no freezes, no bank runs.
 
