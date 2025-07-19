@@ -34,11 +34,13 @@
 
 ## Core Concepts
 
+* [Self-custodial banking](core-concepts/self-custodial-banking.md)
 * [Privacy](core-concepts/privacy.md)
 * [Deposit & withdraw](core-concepts/deposit-and-withdraw.md)
 * [Bridging](core-concepts/bridging.md)
 * [Addresses](core-concepts/addresses.md)
 * [Key backup](core-concepts/key-backup.md)
+* [Identity verification](core-concepts/identity-verification.md)
 * [Stablecoins](core-concepts/stablecoins/README.md)
   * [USDC](core-concepts/stablecoins/usdc.md)
 * [Zero Knowledge Proofs](core-concepts/zero-knowledge-proofs.md)
