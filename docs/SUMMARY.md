@@ -72,3 +72,4 @@
 
 * [About](polybase-labs/about.md)
 * [Leadership](polybase-labs/leadership.md)
+* [Careers](polybase-labs/careers.md)

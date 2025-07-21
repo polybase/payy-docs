@@ -17,3 +17,5 @@ This isn’t just a vision, you can use it today.
 Get your paycheck directly in Payy, buy a coffee, and invest to grow your savings. For the first time in human history, Payy enables a universal, end-to-end money experience that is seamless and safe.
 
 Simply put: Payy is Easy Money
+
+> PS: we're hiring for [marketing](https://polybase.notion.site/Head-of-Marketing-fa176c7548b944d4870fa4bab9b58ddc) and [engineering](https://polybase.notion.site/Staff-Fullstack-Engineer-Rust-React-06175a647cd2447881f2bc20dcdc6db7)
