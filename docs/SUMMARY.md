@@ -14,6 +14,7 @@
 * [Payy Points](product/payy-points.md)
 * [Payy Card](product/payy-card/README.md)
   * [Light up card](product/payy-card/light-up-card.md)
+  * [Community cards](product/payy-card/community-cards.md)
 * [Payy Investments](product/payy-intents/README.md)
   * [US Treasury Bills](product/payy-intents/us-treasury-bills.md)
   * [Risk-tranched Yield Expansion](product/payy-intents/risk-tranched-yield-expansion.md)
