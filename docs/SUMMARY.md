@@ -11,7 +11,10 @@
 
 * [Payy Wallet](product/payy-wallet.md)
 * [Payy Network](product/payy-network.md)
-* [Payy Points](product/payy-points.md)
+* [Payy Points](product/payy-points/README.md)
+  * [Season 1: Balance points](product/payy-points/season-1-balance-points.md)
+  * [Season 2: Spend to earn](product/payy-points/season-2-spend-to-earn.md)
+  * [Season 3: Invest to earn](product/payy-points/season-3-invest-to-earn.md)
 * [Payy Card](product/payy-card/README.md)
   * [Light up card](product/payy-card/light-up-card.md)
   * [Community cards](product/payy-card/community-cards.md)
