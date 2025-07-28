@@ -1,12 +1,12 @@
 ---
 description: >-
-  A bespoke UTXO-based blockchain enabling confidential and compliant
-  transactions at scale.
+  Payy Network is the first stablecoin payments chain with compliant privacy and
+  built-in fiat ramps.
 ---
 
 # Payy Network
 
-Payy Network is currently implemented as a single-sequencer validium rollup. It aggregates UTXO transaction proofs submited by Payy Wallet and posts them to a base layer.
+It is currently implemented as a single-sequencer validium rollup. It aggregates UTXO transaction proofs submited by Payy Wallet and posts them to a base layer.
 
 Payy Network is built from scratch in-house by Polybase Labs. Read more in the [whitepaper](../payy-network/whitepaper.md).
 

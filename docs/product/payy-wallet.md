@@ -1,7 +1,5 @@
 ---
-description: >-
-  A non-custodial wallet that makes it simple and safe to use stablecoins and
-  DeFi.
+description: An enshrined non-custodial banking app on Payy Network.
 ---
 
 # Payy Wallet

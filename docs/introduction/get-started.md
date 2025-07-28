@@ -1,6 +1,6 @@
 # Get started
 
-Payy is a next-generation onchain bank that’s:
+Payy is a next-generation onchain bank account that’s:
 
 * Free to use: No fees for sending, receiving or transferring in/out.
 * Simple but powerful: You can use it as a global cash account — or dive into investments (coming soon).

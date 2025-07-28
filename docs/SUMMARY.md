@@ -9,8 +9,8 @@
 
 ## Product
 
-* [Payy Wallet](product/payy-wallet.md)
 * [Payy Network](product/payy-network.md)
+* [Payy Wallet](product/payy-wallet.md)
 * [Payy Points](product/payy-points/README.md)
   * [Season 1: Balance points](product/payy-points/season-1-balance-points.md)
   * [Season 2: Spend to earn](product/payy-points/season-2-spend-to-earn.md)
@@ -25,6 +25,15 @@
   * [Extraction Efficiency Network](product/payy-intents/extraction-efficiency-network.md)
   * [USTB Looping Safety Mechanisms](product/payy-intents/ustb-looping-safety-mechanisms.md)
   * [Loop Optimization Engine](product/payy-intents/loop-optimization-engine.md)
+
+## Tokenomics
+
+* [$PAYY tokenomics](tokenomics/usdpayy-token.md)
+* [Zero fee transfers](tokenomics/zero-fee-transfers.md)
+* [Investment fees](tokenomics/investment-fees.md)
+* [Token benefits](tokenomics/token-benefits.md)
+* [Foundation](tokenomics/foundation.md)
+* [Roadmap](tokenomics/roadmap.md)
 
 ## Payy Network
 
@@ -63,14 +72,6 @@
 
 * [Hashes](core-concepts/hashes.md)
 * [Blockchains](core-concepts/blockchains.md)
-
-## Tokenomics
-
-* [$PAYY token](tokenomics/usdpayy-token.md)
-* [Zero fee transfers](tokenomics/zero-fee-transfers.md)
-* [Investment fees](tokenomics/investment-fees.md)
-* [Token benefits](tokenomics/token-benefits.md)
-* [Roadmap](tokenomics/roadmap.md)
 
 ## Polybase Labs
 
