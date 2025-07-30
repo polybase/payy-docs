@@ -45,7 +45,7 @@ Payy Card is a self-custodial Visa card that allows you to spend USDC from your 
 * Cross-border support: Some online merchants in certain countries may reject U.S.-issued cards
 * Non USD purchases: Purchases denominated in currencies other than USD have a 1% foreign exchange fee (probably better than your bank).
 
-## How It Works
+## How to get Payy Card
 
 1. Complete identity verification in the Payy Wallet app
 2. Receive your virtual Payy Card
@@ -56,6 +56,12 @@ Payy Card is a self-custodial Visa card that allows you to spend USDC from your 
 ## Adding to Apple Pay or Google Pay
 
 You can add Payy Card to Apple Pay or Google Pay by going to the Apple Wallet or Google Wallet app. Add a new credit card and enter your Payy Card details to activate.
+
+## How Payy Card Privacy works
+
+[Broken link](broken-reference "mention") uses [05\_utxo.md](../../payy-network/05_utxo.md "mention") transactions and doesn't publicly expose your address or transaction values. This means your "tradfi" Visa payments data can never be linked to your Payy Network balance. Every time you make a purchase with your Payy Card, there is a Payy Network transaction that debits the purchase amount from your UTXO notes.
+
+Read more about [privacy.md](../../core-concepts/privacy.md "mention").
 
 ## Documents
 
