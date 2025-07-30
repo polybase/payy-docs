@@ -11,6 +11,6 @@ To unlock the light up Payy Card you must earn 100,000 Payy Points. You can earn
 1. Deposit funds to Payy and claim daily balance points ($1 = 1 point per day)
 2. Invite friends to Payy and get 10,000 points when they successfully apply for a Payy Card
 
-Once unlocked, you’ll be prompted to enter your shipping address to recieve the card.&#x20;
+Once unlocked, you’ll be asked to enter your shipping address to recieve the card.
 
 Shipping can take 2–4 weeks.
