@@ -1,5 +1,6 @@
 ---
 description: Company updates and product announcements from Polybase Labs and Payy
+hidden: true
 ---
 
 # Updates
