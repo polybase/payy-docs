@@ -78,3 +78,5 @@
 * [About](polybase-labs/about.md)
 * [Leadership](polybase-labs/leadership.md)
 * [Careers](polybase-labs/careers.md)
+* [Updates](polybase-labs/updates/README.md)
+  * [Payy Card Launch](polybase-labs/updates/payy-card-launch.md)
