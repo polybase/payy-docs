@@ -17,8 +17,8 @@ We use multiple Fiat <> Stablecoin partners under the hood to achieve coverage a
 
 ## Crypto
 
-You can deposit multiple tokens from multiple chains to Payy. Tokens will be bridge and swapped to stablecoins on Payy Network.&#x20;
+You can deposit multiple tokens from multiple chains to Payy. Tokens will be bridge and swapped to USDC on Payy Network.&#x20;
 
 Crypto deposits are self-custodied by your Payy Wallet because it controls addresses on multiple chains and automates your deposit intent through multiple protocols and bridges. You can view and export your deposit address keys in Advanced Settings.
 
-Payy Network integrates two cross-chain protocols: Across and Mayan. Both of these protocols run through our Polygon lock and mint bridge.
+Payy Network integrates two cross-chain protocols: Across and Mayan. Both of these protocols run through our Polygon lock-and-mint bridge.

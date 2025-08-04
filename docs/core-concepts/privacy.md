@@ -16,7 +16,7 @@ Adding privacy to stablecoin payments unlocks trillions of dollars in use cases 
 
 ## How privacy works in Payy
 
-When you send a Payy Link or QR, those funds are transfered from your wallet to a new ephemeral wallet which is then embedded in the link. When someone claims the link, those funds are transferred out from the ephemeral wallet to their Payy wallet.
+When you send a Payy Link or QR, those funds are transferred from your wallet to a new ephemeral wallet which is then embedded in the link. When someone claims the link, those funds are transferred out from the ephemeral wallet to their Payy wallet.
 
 During both of these ([UTXO](../payy-network/05_utxo.md)) transactions, the actual payment data NEVER leaves your device. It is cryptographically impossible for someone to watch the network and try to infer how much money you sent to someone and who you sent it to. Even your Payy Address is never exposed.
 

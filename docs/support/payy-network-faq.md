@@ -8,7 +8,7 @@ description: Frequently asked questions about using Polybase.
 
 <summary>How can I use the Payy Network?</summary>
 
-Download [Payy](https://payy.link) — the non-custodial wallet for Polybase.
+Download [Payy](https://payy.link) — a non-custodial wallet.
 
 If you would like to build on Payy Network, please reach out to hello@payy.link.
 
@@ -18,7 +18,7 @@ If you would like to build on Payy Network, please reach out to hello@payy.link.
 
 <summary>How are private transactions possible on a public blockchain?</summary>
 
-While there are several methods for enabling privacy, Polybase uses [zero-knowledge-proofs.md](../core-concepts/zero-knowledge-proofs.md "mention") to remove the need to publish transaction details.
+While there are several methods for enabling privacy, Payy Network uses [zero-knowledge-proofs.md](../core-concepts/zero-knowledge-proofs.md "mention") to remove the need to publish transaction details.
 
 </details>
 
@@ -26,7 +26,7 @@ While there are several methods for enabling privacy, Polybase uses [zero-knowle
 
 <summary>Which wallet should I use on the Payy Network?</summary>
 
-[Payy](https://payy.link) is the non-custodial wallet for Polybase.
+[Payy](https://payy.link) is the non-custodial wallet for Payy Network.
 
 </details>
 
@@ -34,7 +34,7 @@ While there are several methods for enabling privacy, Polybase uses [zero-knowle
 
 <summary>Is the Payy Network EVM compatible?</summary>
 
-No. Currently, Ethereum's EVM infrastructure does not allow for private transactions in a computationally efficient and scalable way. Because of this, we have handwritten the custom ZK circuits for Polybase, enabling true privacy on a public blockchain.
+No. Currently, Ethereum's EVM infrastructure does not allow for private transactions in a computationally efficient and scalable way. Because of this, we have handwritten the custom ZK circuits for Payy Network, enabling true privacy on a public blockchain.
 
 </details>
 
