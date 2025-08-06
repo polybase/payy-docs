@@ -1,6 +1,5 @@
 ---
 description: Spend stablecoins privately, anywhere Visa is accepted.
-hidden: true
 cover: ../../.gitbook/assets/Frame 2095593184.png
 coverY: 0
 ---
