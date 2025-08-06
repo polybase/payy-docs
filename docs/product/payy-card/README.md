@@ -9,6 +9,15 @@ coverY: 0
 
 Payy Card is a self-custodial Visa card that allows you to spend USDC from your Payy Wallet in stores or online. It combines private onchain settlement with global card acceptance.
 
+## How to get Payy Card
+
+1. [Download Payy Wallet](https://payy.link/download)
+2. Complete identity verification
+3. Receive your virtual Payy Card
+4. Deposit funds to your Payy Wallet from banks, crypto exchanges or blockchains
+5. Use your Payy Card online or in-store; transactions are settled privately on Payy Network
+6. Optionally, unlock and get your physical card
+
 ## Features
 
 | Feature                                        | Description                                                                                                                                       |
@@ -44,14 +53,6 @@ Payy Card is a self-custodial Visa card that allows you to spend USDC from your 
 * Deposits: You can fund your Payy Wallet from bank accounts in the U.S. and Argentina (more countries coming soon)
 * Cross-border support: Some online merchants in certain countries may reject U.S.-issued cards
 * Non USD purchases: Purchases denominated in currencies other than USD have a 1% foreign exchange fee (probably better than your bank).
-
-## How to get Payy Card
-
-1. Complete identity verification in the Payy Wallet app
-2. Receive your virtual Payy Card
-3. Deposit funds to your Payy Wallet from banks, crypto exchanges or blockchains
-4. Use your Payy Card online or in-store; transactions are settled privately on Payy Network
-5. Optionally, unlock and get your physical card
 
 ## Adding to Apple Pay or Google Pay
 
