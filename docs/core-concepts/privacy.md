@@ -24,6 +24,6 @@ This happens because the only data that leaves your device is an updated state h
 
 ## Enabling compliance
 
-In [06\_compliance.md](../payy-network/06_compliance.md "mention")we discuss various approaches to enabling compliant privacy on Payy Network. This is different from products and protocols pushing for absolute privacy like Zcash, Monero and Tornado Cash. We aim to keep the design space open so we can adapt to changing technology and regulation.
+In [06\_compliance.md](../payy-network/06_compliance.md "mention") we discuss various approaches to enabling compliant privacy on Payy Network. This is different from products and protocols pushing for absolute privacy like Zcash, Monero and Tornado Cash. We aim to keep the design space open so we can adapt to changing technology and regulation.
 
 The solution we’ve chosen for now is called UTXO lineage. For a given UTXO note, all of its past parent notes can be traced. However, the transaction amount, sending address and receiving address are still never revealed publicly. This is a unique capability that a UTXO based model has that an account based model like Ethereum cannot enable.
