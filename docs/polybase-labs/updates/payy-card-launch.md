@@ -7,7 +7,11 @@ coverY: -333.96715643906657
 
 # Payy Card Launch
 
-**Coindesk coverage:** [**https://www.coindesk.com/business/2025/08/06/ex-apple-engineer-unveils-privacy-focused-crypto-visa-card**](https://www.coindesk.com/business/2025/08/06/ex-apple-engineer-unveils-privacy-focused-crypto-visa-card)
+### Press c**overage**
+
+**Coindesk:** [**https://www.coindesk.com/business/2025/08/06/ex-apple-engineer-unveils-privacy-focused-crypto-visa-card**](https://www.coindesk.com/business/2025/08/06/ex-apple-engineer-unveils-privacy-focused-crypto-visa-card)
+
+**CardsFTW:** [**https://www.cardsftw.com/cardsftw-164-consumers-are-strained/?ref=cardsftw-newsletter**](https://www.cardsftw.com/cardsftw-164-consumers-are-strained/?ref=cardsftw-newsletter)
 
 ***
 
