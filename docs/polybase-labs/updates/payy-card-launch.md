@@ -7,6 +7,10 @@ coverY: -333.96715643906657
 
 # Payy Card Launch
 
+**Coindesk coverage:** [**https://www.coindesk.com/business/2025/08/06/ex-apple-engineer-unveils-privacy-focused-crypto-visa-card**](https://www.coindesk.com/business/2025/08/06/ex-apple-engineer-unveils-privacy-focused-crypto-visa-card)
+
+***
+
 **August 6, 2025 — New York, USA**
 
 Payy launches Payy Card, the first self-custodial Visa card that enables private, real-world stablecoin spending. With the passing of the GENIUS Act, stablecoin usage is now fully supported by the U.S. government, paving the way for retail and institutional adoption; however, most real-world use cases are not practical without some privacy guarantees.
