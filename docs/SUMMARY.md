@@ -57,6 +57,8 @@
 * [Stablecoins](core-concepts/stablecoins/README.md)
   * [USDC](core-concepts/stablecoins/usdc.md)
 * [Zero Knowledge Proofs](core-concepts/zero-knowledge-proofs.md)
+* [Hashes](core-concepts/hashes.md)
+* [Blockchains](core-concepts/blockchains.md)
 
 ## Support
 
@@ -67,11 +69,6 @@
 * [Audits](support/audits.md)
 * [Run a node](support/run-a-node.md)
 * [Contact](support/contact.md)
-
-***
-
-* [Hashes](core-concepts/hashes.md)
-* [Blockchains](core-concepts/blockchains.md)
 
 ## Polybase Labs
 

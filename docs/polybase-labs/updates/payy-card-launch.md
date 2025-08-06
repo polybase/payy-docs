@@ -1,6 +1,5 @@
 ---
 description: Payy unveils first onchain VISA card that spends stablecoins privately
-hidden: true
 cover: ../../.gitbook/assets/Frame 2095593249.png
 coverY: -333.96715643906657
 ---
