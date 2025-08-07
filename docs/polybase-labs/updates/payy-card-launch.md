@@ -12,6 +12,12 @@ coverY: -333.96715643906657
 
 **CardsFTW:** [**https://www.cardsftw.com/cardsftw-164-consumers-are-strained/?ref=cardsftw-newsletter**](https://www.cardsftw.com/cardsftw-164-consumers-are-strained/?ref=cardsftw-newsletter)
 
+**CoinPasar:** [**https://coinpasar.sg/payy-launches-payy-card-for-private-stablecoin-spending/**](https://coinpasar.sg/payy-launches-payy-card-for-private-stablecoin-spending/)
+
+**Yellow:** [**https://yellow.com/news/former-apple-engineer-creates-stablecoin-visa-card-that-hides-blockchain-transactions**](https://yellow.com/news/former-apple-engineer-creates-stablecoin-visa-card-that-hides-blockchain-transactions)
+
+**BTCC:** [**https://www.btcc.com/en-IN/square/Global%20Cryptocurrency/755705**](https://www.btcc.com/en-IN/square/Global%20Cryptocurrency/755705)
+
 ***
 
 **August 6, 2025 — New York, USA**
