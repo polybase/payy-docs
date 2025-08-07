@@ -18,6 +18,8 @@ coverY: -333.96715643906657
 
 **BTCC:** [**https://www.btcc.com/en-IN/square/Global%20Cryptocurrency/755705**](https://www.btcc.com/en-IN/square/Global%20Cryptocurrency/755705)
 
+**Blockworks Research:** [**https://blockworks-research.beehiiv.com/p/another-day-another-launchpad#:\~:text=Payy%20Network,-tackles%20the%20seemingly**](https://blockworks-research.beehiiv.com/p/another-day-another-launchpad)
+
 ***
 
 **August 6, 2025 — New York, USA**
