@@ -20,6 +20,10 @@ coverY: -333.96715643906657
 
 **Blockworks Research:** [**https://blockworks-research.beehiiv.com/p/another-day-another-launchpad#:\~:text=Payy%20Network,-tackles%20the%20seemingly**](https://blockworks-research.beehiiv.com/p/another-day-another-launchpad)
 
+**Secret3:** [**https://research.secret3.com/feed/ex-apple-engineer-unveils-privacy-focused-crypto-visa-card/**](https://research.secret3.com/feed/ex-apple-engineer-unveils-privacy-focused-crypto-visa-card/)
+
+**Vtrader.io:** [**https://www.vtrader.io/news/former-apple-engineer-launches-crypto-visa-card-prioritizing-privacy/**](https://www.vtrader.io/news/former-apple-engineer-launches-crypto-visa-card-prioritizing-privacy/)
+
 ***
 
 **August 6, 2025 — New York, USA**
