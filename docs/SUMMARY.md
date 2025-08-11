@@ -18,13 +18,13 @@
 * [Payy Card](product/payy-card/README.md)
   * [Light up card](product/payy-card/light-up-card.md)
   * [Community cards](product/payy-card/community-cards.md)
-* [Payy Investments](product/payy-intents/README.md)
-  * [US Treasury Bills](product/payy-intents/us-treasury-bills.md)
-  * [Risk-tranched Yield Expansion](product/payy-intents/risk-tranched-yield-expansion.md)
-  * [Liquidation Immunity System](product/payy-intents/liquidation-immunity-system.md)
-  * [Extraction Efficiency Network](product/payy-intents/extraction-efficiency-network.md)
-  * [USTB Looping Safety Mechanisms](product/payy-intents/ustb-looping-safety-mechanisms.md)
-  * [Loop Optimization Engine](product/payy-intents/loop-optimization-engine.md)
+* [Payy Investments](product/payy-investments/README.md)
+  * [US Treasury Bills](product/payy-investments/us-treasury-bills.md)
+  * [Risk-tranched Yield Expansion](product/payy-investments/risk-tranched-yield-expansion.md)
+  * [Liquidation Immunity System](product/payy-investments/liquidation-immunity-system.md)
+  * [Extraction Efficiency Network](product/payy-investments/extraction-efficiency-network.md)
+  * [USTB Looping Safety Mechanisms](product/payy-investments/ustb-looping-safety-mechanisms.md)
+  * [Loop Optimization Engine](product/payy-investments/loop-optimization-engine.md)
 
 ## Tokenomics
 
