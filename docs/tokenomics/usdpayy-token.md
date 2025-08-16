@@ -15,21 +15,6 @@ $PAYY will be used as economic stake to secure Payy Network. Holding $PAYY will 
 
 1 billion tokens
 
-## Distribution
-
-* 25% community rounds
-  * 5% unlocked at TGE
-  * variable lockup with acceleration available
-  * 2yr monthly vesting after lockup
-* 25% team + VCs
-  * 5% unlocked at TGE
-  * 12 month lockup
-  * 3yr monthly vesting after lockup
-* 15% future emissions + incentives (no lockup, no vesting, requires gov vote)
-* 15% protocol owned liquidity (only used for liquidity)
-* 10% safety fund (no lockup, no vesting, requires gov vote)
-* 10% treasury (no lock, 5 year linear vesting)
-
 ### Chain
 
 * Ethereum ERC-20 initially
