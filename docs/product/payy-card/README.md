@@ -19,17 +19,17 @@ Payy Card is a self-custodial Visa card that allows you to spend USDC from your 
 
 ## Features
 
-| Feature                                        | Description                                                                                                                                                               |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Privacy-preserving payments                    | Transactions are settled on Payy Network using zero-knowledge proofs. Onchain wallet balances and activity cannot be linked to card transactions.                         |
-| Self-custodial                                 | You control your funds at all times. No custodial risk.                                                                                                                   |
-| No fees                                        | No fees to apply. No transaction or top-up fees. No monthly fees. [1% Visa/bank  FX](https://usa.visa.com/support/consumer/travel-support/exchange-rate-calculator.html). |
-| Virtual card                                   | Issued instantly upon identity verification. Use by copy/pasting the card number or by manually adding to Apple Pay / Google Pay.                                         |
-| [light-up-card.md](light-up-card.md "mention") | Contactless-only (no chip or swipe). Tap-to-pay activates a glowing Payy logo — the first card of its kind.                                                               |
-| ATM access                                     | Contactless ATM withdrawals are supported (in private beta; contact support for access).                                                                                  |
-| No credit check                                | Applying only requires identity verification. No credit history is pulled.                                                                                                |
-| Freeze functionality                           | You can freeze/unfreeze your card at any time in the app.                                                                                                                 |
-| Name/address changes                           | Reach out to in-app support to update billing name or address.                                                                                                            |
+| Feature                                        | Description                                                                                                                                                            |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Privacy-preserving payments                    | Transactions are settled on Payy Network using zero-knowledge proofs. Onchain wallet balances and activity cannot be linked to card transactions.                      |
+| Self-custodial                                 | You control your funds at all times. No custodial risk.                                                                                                                |
+| No fees                                        | No fees to apply. No transaction or top-up fees. No monthly fees. [Visa/bank  FX](https://usa.visa.com/support/consumer/travel-support/exchange-rate-calculator.html). |
+| Virtual card                                   | Issued instantly upon identity verification. Use by copy/pasting the card number or by manually adding to Apple Pay / Google Pay.                                      |
+| [light-up-card.md](light-up-card.md "mention") | Contactless-only (no chip or swipe). Tap-to-pay activates a glowing Payy logo — the first card of its kind.                                                            |
+| ATM access                                     | Contactless ATM withdrawals are supported (in private beta; contact support for access).                                                                               |
+| No credit check                                | Applying only requires identity verification. No credit history is pulled.                                                                                             |
+| Freeze functionality                           | You can freeze/unfreeze your card at any time in the app.                                                                                                              |
+| Name/address changes                           | Reach out to in-app support to update billing name or address.                                                                                                         |
 
 ## Card type
 
