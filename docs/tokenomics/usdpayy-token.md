@@ -29,7 +29,7 @@ $PAYY will be used as economic stake to secure Payy Network. Holding $PAYY will 
   * 0.5-2.5% one time fee for advanced strategies
   * Treasury yield (5-10%)
   * 1% [Payy Card](../product/payy-card/) interchange
-  * 1% fee for fiat on/offramping above $25k/month
+  * 1% fee for fiat on/offramping above monthly threshold
   * x% borrowing fee (future use)
 * 30% of fees used to buy and burn $PAYY
   * Additional 10% burn during high profit periods
