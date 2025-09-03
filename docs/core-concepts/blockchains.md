@@ -4,7 +4,7 @@ description: Distributed ledger technology.
 
 # Blockchains
 
-A blockchain is a digital, distributed ledg**er**. In the same way that banks, stores, and other businesses keep a record of all of their transactions, a blockchain keeps track of all transactions that take place on its network. The distributed portion is important because it means that everyone on the network has a copy of the ledger.
+A blockchain is a digital, distributed **ledger**. In the same way that banks, stores, and other businesses keep a record of all of their transactions, a blockchain keeps track of all transactions that take place on its network. The distributed portion is important because it means that everyone on the network has a copy of the ledger.
 
 Whenever a transaction occurs, everyone's ledger is updated at the same time. Transactions, once validated, are also **immutable** because of this distributed nature; it is very difficult and often impossible to change a confirmed transaction.
 
