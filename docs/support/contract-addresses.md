@@ -1,5 +1,7 @@
 # Contract addresses
 
-The first [Broken link](broken-reference "mention") bridge is deployed on Polygon: [https://polygonscan.com/address/0x4cbb5041df8d815d752239960fba5e155ba2687e#tokentxns](https://polygonscan.com/address/0x4cbb5041df8d815d752239960fba5e155ba2687e#tokentxns)
+The [Broken link](broken-reference "mention") bridge is deployed on Polygon:&#x20;
+
+[https://polygonscan.com/address/0xcd92281548df923141fd9b690c7c8522e12e76e6](https://polygonscan.com/address/0xcd92281548df923141fd9b690c7c8522e12e76e6)
 
 We plan on deploying bridges to multiple EVM chains in the near future.
